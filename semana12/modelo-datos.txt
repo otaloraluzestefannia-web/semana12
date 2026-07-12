@@ -1,0 +1,13 @@
+Causa Lanzamiento de la Iniciativa Ciudadana "Parques Seguros e Iluminados".
+id  Feliz
+titulo "Parques Seguros e Iluminados".
+descripcion : El ambiente en la comunidad es de absoluta celebración. Gracias al compromiso de los vecinos y a la facilidad del sistema "Petición en 3 Clics", se logró visibilizar una necesidad urgente con una respuesta masiva y entusiasta. Los ciudadanos expresaron su felicidad al ver que la tecnología facilitó que personas de todas las edades sumaran su respaldo sin complicaciones. Este logro no solo representa un paso formal hacia un espacio público más seguro, sino que ha devuelto la confianza colectiva en que la organización comunitaria y la participación ciudadana transparente dan resultados reales y motivos para sonreír.
+
+fecha : 12-07-26
+
+Apoyo : Celebración comunitaria tras alcanzar la meta de 500 apoyos digitales en la plataforma en tiempo récord. El barrio ha demostrado una unión histórica para mejorar el entorno de los niños, logrando la generación del documento PDF oficial para la alcaldía local en un ambiente de alegría y optimismo.
+
+id eliz
+causa_id "Parques Seguros e Iluminados".
+nombre Estenia Rojas
+fecha 12-07-26

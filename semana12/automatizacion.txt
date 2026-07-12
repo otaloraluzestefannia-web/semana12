@@ -1,0 +1,17 @@
+El evento que activa la automatización es el registro de un nuevo apoyo por parte de un ciudadano a una causa.
+
+Tan pronto como el usuario hace clic para respaldar la iniciativa y el dato se guarda en el sistema, ese cambio detectado en la plataforma actúa como el "disparador" (o trigger) para que herramientas como n8n envíen la notificación automática a Telegram
+El mensaje que se envía de forma automática a Telegram suele tener una estructura clara, directa y motivadora para mantener informada a la comunidad.
+
+Un ejemplo del formato del mensaje es 📢 ¡Nuevo apoyo registrado!
+
+La causa "[Nombre de la Causa]" acaba de recibir un nuevo respaldo.
+
+📊 Progreso actual: [Número actual de apoyos] apoyos conseguidos.
+
+¡Cada vez estamos más cerca de la meta para generar la petición formal! Sigue la causa aqui
+Para garantizar la seguridad de los ciudadanos y mantener la confianza en tu plataforma, debes aplicar el principio de minimización de datos: solo envía lo estrictamente necesario para que la notificación sea útil.
+
+En sistemas de notificación (como Telegram o correos automáticos), nunca debes incluir la siguiente información:
+Cualquier dato que permita identificar de forma única a una persona debe permanecer exclusivamente en la base de datos y no exponerse en canales de comunicación
+

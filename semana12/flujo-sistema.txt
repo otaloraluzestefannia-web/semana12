@@ -1,0 +1,12 @@
+PETCION EN 3 CLISC
+Un ciudadano crea una causa ingresando un título, descripción y los datos mínimos requeridos.
+La causa queda registrada en la base de datos con un estado activo y un contador de apoyos en cero.
+Otros ciudadanos ingresan a la plataforma, revisan la causa y, con un solo clic, registran su apoyo de forma segura.
+El sistema valida y cuenta los apoyos recibidos, actualizando el progreso de la meta establecida.
+A través de la integración con n8n, el sistema envía una alerta automática a Telegram notificando que la causa está sumando respaldo.
+Al alcanzar los apoyos necesarios, el sistema procesa la información y genera automáticamente un documento PDF con la petición formal y el consolidado de respaldos, listo para ser descargado o presentado.
+Visualización pública:
+La causa se hace visible en la plataforma para que toda la comunidad pueda conocer la iniciativa y los objetivos propuestos.
+Otros ciudadanos interesados en la problemática ingresan al sistema y registran su apoyo de forma rápida y segura.
+El sistema contabiliza automáticamente cada nuevo apoyo recibido, actualizando las estadísticas de la causa en la base de datos.
+Al alcanzar la meta de respaldos, la plataforma consolida la información y genera un documento PDF oficial listo para ser presentado ante las entidades correspondientes.
